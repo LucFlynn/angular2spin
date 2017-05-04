@@ -1,6 +1,6 @@
 .DS_Store
 /.sync-config.cson
-./idea
+/.idea
 /node_modules
 /typings
 /vendor
