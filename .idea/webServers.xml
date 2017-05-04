@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a5d811b5-237a-4754-9c47-de415be50bd2" name="angular2spin" url="http://bootcamp-coders.cnm.edu/~lflynn7/angular2spin">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lflynn7/public_html/angular2spin" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
