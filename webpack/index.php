@@ -9,6 +9,6 @@
     <title>Angular2Spin </title>
 </head>
 <body>
-<angular2spin-app>Loading&hellip;</angular2spin-app>
+<angular2spin>Loading&hellip;</angular2spin>
 </body>
 </html>

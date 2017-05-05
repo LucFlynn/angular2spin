@@ -1,8 +1,8 @@
 import {Component} from "@angular/core";
 
 @Component({
-    selector: 'angular2spin-app',
-    templateUrl: './templates/angular2spin-app.php'
+    selector: 'angular2spin',
+    templateUrl: './templates/angular2spin.php'
 })
 
 export class AppComponent {
